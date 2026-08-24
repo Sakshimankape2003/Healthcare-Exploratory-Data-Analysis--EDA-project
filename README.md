@@ -1,4 +1,4 @@
-# healthcareEDA#### Healthcare Exploratory Data Analysis (EDA) Project
+# Healthcare Exploratory Data Analysis (EDA) Project
 Introduction
 This project involves analyzing a healthcare dataset to extract insights and understand patient trends. The dataset contains 500 records with missing values in certain columns.
 
